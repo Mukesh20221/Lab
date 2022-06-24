@@ -8,6 +8,6 @@ public class MultiplicationFloatNumber {
 		System.out.println("Enter second number");//Print message
 		float seco = sc.nextFloat();//Take user input
 		sc.close();//Close scanner object
-		System.out.println("Multiplication of two number: "+(firstno * seco));
+		System.out.println("Multiplication of two number: "+(firstno * seco));//Print result
 	}
 }
