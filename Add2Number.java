@@ -7,7 +7,7 @@ public class Add2Number {
 		int firstno = sc.nextInt();//Take user input
 		System.out.println("Enter second number");//Print message
 		int secno = sc.nextInt();//Take user input
-		sc.close();//Close scanner object
+		sc.close();//Close scanner bject
 		System.out.println("Addition of two number: "+(firstno +secno ));//Print result
 	}
 }
